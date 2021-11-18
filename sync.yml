@@ -2,6 +2,6 @@ docker.io:
     tls-verify: false
     images:
       #备份青龙
-      whyour/qinglong: []
+      hushunxu/qinglong_base: []
       #备份诺兰jdc
       cheche/nvjdc: []
