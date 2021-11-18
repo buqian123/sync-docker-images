@@ -5,3 +5,5 @@ docker.io:
       hushunxu/qinglong_base: []
       #备份诺兰jdc
       cheche/nvjdc: []
+      #备份qqbot
+      asupc/qqbot: []
