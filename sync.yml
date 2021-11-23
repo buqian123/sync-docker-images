@@ -3,7 +3,3 @@ docker.io:
     images:
       #备份青龙
       hushunxu/qinglong_base: []
-      #备份诺兰jdc
-      cheche/nvjdc: []
-      #备份qqbot
-      asupc/qqbot: []
