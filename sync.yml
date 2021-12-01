@@ -2,4 +2,4 @@ docker.io:
     tls-verify: false
     images:
       #备份青龙
-      whyou/qinglong: []
+      whyour/qinglong: []
