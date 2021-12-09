@@ -3,4 +3,3 @@ docker.io:
     images:
       #备份青龙
       whyour/qinglong: []
-      nolanhzy/nvjdc: []
